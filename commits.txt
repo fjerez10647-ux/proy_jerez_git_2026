@@ -1,0 +1,23 @@
+commit af664fef3bdd56b9769f96d0868718ee71af9242
+Author: Javier Jerez <fjerez10647@incostarija.org>
+Date:   Fri Oct 2 19:04:35 2026 -0400
+
+    Guardando cambios finales de index
+
+commit d9e30bbb0f3f42c4dfb6415623babacd316bede6
+Author: Javier Jerez <fjerez10647@incostarija.org>
+Date:   Fri Oct 2 18:58:43 2026 -0400
+
+    agregamos el index.html
+
+commit 7e06278aa9e636c26166a8cbae799faca74b4005
+Author: Javier Jerez <fjerez10647@incostarija.org>
+Date:   Wed Sep 30 21:44:09 2026 -0400
+
+    Agregamos app y estilos
+
+commit 88c49482333e13f5894ee072cd2d531d01ab4aea
+Author: Javier Jerez <fjerez10647@incostarija.org>
+Date:   Wed Sep 30 21:42:57 2026 -0400
+
+    Agregamos a index.html
